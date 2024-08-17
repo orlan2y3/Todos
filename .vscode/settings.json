@@ -1,4 +1,0 @@
-{
-    "appService.defaultWebAppToDeploy": "undefined/subscriptions/d0088e46-4f2f-4b1c-8b39-9569552193a8/resourceGroups/appsvc_windows_centralus_basic/providers/Microsoft.Web/sites/ToDoApp0",
-    "appService.deploySubpath": "."
-}
